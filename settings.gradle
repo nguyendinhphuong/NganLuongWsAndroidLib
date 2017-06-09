@@ -1,0 +1,1 @@
+include ':app', ':jdi-payment-2', ':jdi-payment', ':jdi-payment-server'
